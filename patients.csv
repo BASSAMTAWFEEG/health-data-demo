@@ -1,0 +1,5 @@
+Patient_ID,Age,Gender,Disease,Blood_Sugar
+001,45,M,Diabetes,180
+002,52,F,Hypertension,100
+003,36,F,Asthma,90
+004,60,M,Diabetes,200
